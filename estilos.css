@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(9, 86, 105);
+}
+
+.titulo h1 {
+    margin-top: 100px;
+    border: solid 5px #0b7f7b;
+    text-align: center;
+    font-weight: 1000;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#formulario {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.div-listado h2{
+    font-size: 2rem;
+    background-color: rgb(96, 198, 174);
+    border: solid 5px #0b7f7b;
+    border-radius: 25px;
+    position: static;
+    text-align: center;
+    top: 50%;
+    left: 40%;
+    padding: 1rem 2rem;
+}
+
+.div-empleado {
+    color: white;
+    text-align: left;
+
+
+}
